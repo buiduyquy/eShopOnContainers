@@ -1,5 +1,5 @@
 variables:
-    registryEndpoint:  'hdexpress.azurecr.io'
+    registryEndpoint:  hdexpress
 trigger:
   branches:
     include:
